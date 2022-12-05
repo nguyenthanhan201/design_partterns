@@ -1,3 +1,4 @@
+// factory pattern sẽ giúp cho code được tái sử dụng lại nhiều lần
 const Developer = function (name) {
   this.name = name;
   this.type = "Developer";
